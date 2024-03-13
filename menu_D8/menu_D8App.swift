@@ -11,7 +11,7 @@ import SwiftUI
 struct menu_D8App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MenuView()
         }
     }
 }
